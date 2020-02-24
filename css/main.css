@@ -1,0 +1,29 @@
+body{
+	background:#EEF1F4;
+}
+.navbar-item, .navbar-item span{
+	color:#ffffff;
+}
+.navbar-burger span{
+	background: #ffffff !important;
+}
+.main{
+	margin-top:-70px;
+	margin-bottom:70px;
+}
+.footer, .work-item-list{
+	box-shadow: 0 2px 4px 0 rgba(0,0,0,.05);
+	background:#ffffff !important;
+}
+.work-item-list{
+	border-radius: 7px;
+}
+.footer{
+	padding:1.5em !important;
+}
+@media screen and (max-width: 768px) {
+  .main{
+	margin-top:0;
+	margin-bottom:20px;
+	}
+}
