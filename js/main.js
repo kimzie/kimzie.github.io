@@ -8,6 +8,6 @@ $(document).ready(function() {
 
   });
 
-  $('.image-link').magnificPopup({type:'image'});
+  $('.work-item').magnificPopup({type:'image'});
 
 });
